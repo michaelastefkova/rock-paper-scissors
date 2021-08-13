@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/levi5/frontend-mentor-rock-paper-scissors">
+    <a href="https://github.com/michaelastefkova/frontend-mentor-rock-paper-scissors">
       Solution
     </a>
     <span> | </span>
@@ -73,4 +73,4 @@ Your users should be able to:
 
 ## Contact
 
-- GitHub [levi5](https://github.com/michaelastefkova)
+- GitHub [michaelastefkova](https://github.com/michaelastefkova)

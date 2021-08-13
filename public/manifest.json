@@ -1,0 +1,7 @@
+{
+    "name":"app",
+    "short_name":"app",
+    "icons":[],
+    "display":"fullscreen",
+    "start_url":"/"
+}

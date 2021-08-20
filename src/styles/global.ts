@@ -56,3 +56,4 @@ button{
 `;
 
 export default GlobalStyle;
+
